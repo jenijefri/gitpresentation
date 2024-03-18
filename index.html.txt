@@ -1,4 +1,21 @@
+<<<<<<< HEAD
 <html>
 <head>
 <title>the title is head
 </title>
+=======
+<!DOCTYPE html>
+<html>
+<head>
+<title>Hello World!</title>
+<img src="hello world image">
+</head>
+<body>
+
+<h1>Hello world!</h1>
+<p>This is the first file in my new Git Repo.</p>
+
+</body>
+</html>
+
+>>>>>>> hello_world_image
